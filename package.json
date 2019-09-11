@@ -1,0 +1,26 @@
+{
+  "name": "nick-img-down",
+  "version": "1.0.0",
+  "description": "for img download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickSmm/imgDownload.git"
+  },
+  "keywords": [
+    "base64",
+    "img",
+    "img",
+    "url",
+    "download"
+  ],
+  "author": "Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickSmm/imgDownload/issues"
+  },
+  "homepage": "https://github.com/NickSmm/imgDownload#readme"
+}
